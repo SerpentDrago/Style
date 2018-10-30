@@ -1,2 +1,2 @@
 # Style
-Styles, themes and artwork for my stuff
+Styles, themes and artwork for Deep Thought , Forked from OpenELEQ/Style
